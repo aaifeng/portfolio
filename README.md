@@ -25,7 +25,7 @@ My overall goal is to...
 # Examples
 In-class demos. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 Assignment description to come. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
