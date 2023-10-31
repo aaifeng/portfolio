@@ -1,26 +1,18 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- Web page URL: https://aaifeng.github.io/portfolio/
+- This repository: https://github.com/aaifeng/portfolio/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+Public portfolio for 94-870 Telling Stories with Data at Carnegie Mellon University. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! My name is Ana-Alicia Feng (she/her), and I am a Master of Arts Management student at Carnegie Mellon University. I received a B.A. in Studio Art with a concentration in painting, a B.S. in Marketing, and a minor in Art History from the University of Maryland, College Park. Before coming to CMU, I worked for five years as the Grants Assistant Manager at a public grantmaking agency for local arts and humanities non-profits and individual artists and scholars in Montgomery County, Maryland.
+
+I fell into arts management after realizing that I was less interested in creating the art than I was in finding ways to share and increase access to the art. Survey analysis experiences from past internships and the advocacy work inherent to public grantmaking really opened my eyes to the possibilities of data-driven decisions and how data is digested differently depending on its presentation. I'm most interested in how data can be used to strengthen the relationship between arts organizations and their communities.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
+My overall goal is to  
 
 - List item #1
 - List item #2
