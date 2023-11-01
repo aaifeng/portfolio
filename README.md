@@ -14,11 +14,11 @@ I fell into arts management after realizing that I was less interested in creati
 I'm interested in exploring how data can be used to strengthen the relationship between arts organizations and their communities.
 
 # What I hope to learn
-My overall goal is to...
+My overall goal is to build a foundation in data visualization. Within that, I want to...
 
-- List item #1
-- List item #2
-- List item #3
+- learn how to identify which visualization types are better suited depending on my audience
+- have a better understanding of overall best practices as they relates to type, color, and scale
+- start developing skills in Tableau
 
 # Portfolio
 
