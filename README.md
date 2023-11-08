@@ -35,7 +35,7 @@ My overall goal is to build a foundation in data visualization. Within that, I w
 
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-Assignment description to come. 
+Three visualizations of government debt of countries around the world from 1995 through 2022 using the Organization for Economic Co-operation and Development's visualization tool on their website, and two different visualizations created with Tableau.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 Assignment description to come.  
