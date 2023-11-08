@@ -16,7 +16,7 @@ The OECD website graph to me is the clearest, however given the fact that the tw
 ## Visualization using OECD website tool
 
 <iframe src="https://data.oecd.org/chart/7fau" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7fau" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
-
+“General Government Debt.” OECD, 2023. https://data.oecd.org/gga/general-government-debt.htm.
 
 ## Heat Map Visualization using Tableau
 
@@ -28,7 +28,7 @@ The OECD website graph to me is the clearest, however given the fact that the tw
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
+“General Government Debt.” OECD, 2023. [https://data.oecd.org/gga/general-government-debt.htm.](https://data.oecd.org/gga/general-government-debt.htm) 
 
 ## Line Graph Visualization using Tableau
 
@@ -40,3 +40,4 @@ The OECD website graph to me is the clearest, however given the fact that the tw
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+“General Government Debt.” OECD, 2023. [https://data.oecd.org/gga/general-government-debt.htm.](https://data.oecd.org/gga/general-government-debt.htm)
