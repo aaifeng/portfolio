@@ -13,10 +13,11 @@ I chose to do a line graph because I was interested in seeing how each country's
 The OECD website graph to me is the clearest, however given the fact that the two Tableau graphs are incorporating multiple years, I process the line graph faster than I do the heat map. The title and color highlights of the line graph also help me focus faster on specific data points, whereas I need to take in more information and create my own narrative with the heat map. If I were to change something about the line graph, I would add in labels for Japan and the U.S. for added clarity. Unexplored in this graph, but I also think there's an interesting narrative for countries that have had debt-to-GDP ratios above 100% over the years.
 
 
-## Visualization using OECD website tool
+## Visualization using OECD Website Tool
 
 <iframe src="https://data.oecd.org/chart/7fau" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7fau" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
-“General Government Debt.” OECD, 2023. https://data.oecd.org/gga/general-government-debt.htm.
+“General Government Debt.” OECD, 2023. [https://data.oecd.org/gga/general-government-debt.htm.](https://data.oecd.org/gga/general-government-debt.htm)
+
 
 ## Heat Map Visualization using Tableau
 
@@ -29,6 +30,7 @@ The OECD website graph to me is the clearest, however given the fact that the tw
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 “General Government Debt.” OECD, 2023. [https://data.oecd.org/gga/general-government-debt.htm.](https://data.oecd.org/gga/general-government-debt.htm) 
+
 
 ## Line Graph Visualization using Tableau
 
