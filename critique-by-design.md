@@ -9,10 +9,12 @@ Original visualiation from Our World in Data: [https://ourworldindata.org/time-u
 
 ## Critique
 ## Sketching & Prototyping
-![Sketch 1](sketch1.jpg)
-<img src="sketch1.jpg" width="400"/>
-<img src="sketch2.jpg" width="400"/>
-<img src="sketch3.jpg" width="400"/>
+![Sketch 1](sketch-1.png)
+<img src="sketch-1.png" width="500"/>
+text here
+<img src="sketch-2.png" width="500"/>
+text here
+<img src="sketch-3.png" width="500"/>
 
 ## Testing through Interviews
 
