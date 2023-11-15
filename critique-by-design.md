@@ -9,6 +9,10 @@ Original visualiation from Our World in Data: [https://ourworldindata.org/time-u
 
 ## Critique
 ## Sketching & Prototyping
+<img src="Sketch 1.jpg" width="400"/>
+<img src="Sketch 2.jpg" width="400"/>
+<img src="Sketch 3.jpg" width="400"/>
+
 ## Testing through Interviews
 
 ## Redesign
