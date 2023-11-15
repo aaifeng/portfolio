@@ -23,6 +23,7 @@ My overall goal is to build a foundation in data visualization. Within that, I w
 # Portfolio
 
 ## Examples
+A collection of in-class demos.
 <div class='tableauPlaceholder' id='viz1698951894085' style='position: relative'><noscript><a href='#'><img alt='Trust in News Organizations (source: Simmons Research) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Me&#47;MediaTrust_In-classExercise&#47;MediaTrust&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MediaTrust_In-classExercise&#47;MediaTrust' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Me&#47;MediaTrust_In-classExercise&#47;MediaTrust&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1698951894085');                    
@@ -37,8 +38,8 @@ My overall goal is to build a foundation in data visualization. Within that, I w
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 Three visualizations of government debt of countries around the world from 1995 through 2022 using the Organization for Economic Co-operation and Development's visualization tool on their website, and two different visualizations created with Tableau.
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
-Assignment description to come.  
+## Assignment 3 & 4: [Critique by Design](critique-by-design)
+A critique of a MakeoverMonday visualization, complete with sketching, testing, and a redesign of the visualization.
 
 ## Final project
 Final project description to come. 
