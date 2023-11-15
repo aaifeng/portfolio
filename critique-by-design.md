@@ -2,6 +2,16 @@
 
 # Critique by Design
 
+## MakeoverMonday Visualization: Who do we spend time with across our ifetime?
+Original visualiation from Our World in Data: [https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime](https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime)
+
+<iframe src="https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us?stackMode=absolute%C2%AEion" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Critique
+## Sketching & Prototyping
+## Testing through Interviews
+
+## Redesign
 <div class='tableauPlaceholder' id='viz1700089348739' style='position: relative'><noscript><a href='#'><img alt='Time Spent Alone Increases with Age for AmericansBased on averages from 2009-2019 survey responses (source: Our World in Data) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ti&#47;TimeSpentbyAge&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TimeSpentbyAge&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ti&#47;TimeSpentbyAge&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1700089348739');                    
@@ -10,3 +20,4 @@
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+Ortiz-Ospina, Esteban, Charlie Giattino, and Max Roser. “Time Use.” Our World in Data, November 29, 2023. [https://ourworldindata.org/time-use#how-are-working-hours-measured-and-what-can-we-learn-from-the-data.](https://ourworldindata.org/time-use#how-are-working-hours-measured-and-what-can-we-learn-from-the-data)
