@@ -37,21 +37,24 @@ As for changes to the visualization, I would consider reducing the data into age
 
 ## Sketching & Prototyping
 
-As mentioned, I was immediately intrigued and surprised by the increased time spent alone starting at 40 years of age, which felt rather young to me. I would have thought that increased time alone would spike at the U.S. retirement age, which is 65. This thought process led to sketch 1 below. I wanted to highlight the line for time spent alone, and I wanted to make a note of the divergence starting at 40 as well as the retirement age at 65. I also modified the title to guide viewers towards what I was interested in showing more prominently. I did keep the x- and y-axis relatively the same, with the exception of reducing the intervals of the tick marks for similar understanding with a cleaner aesthetic. The other categories were muted in gray since I thought that their context was interesting but not the focal point, and the decision to reduce the line weight of time spent alone before the 40-year mark was once again to emphasize the change that happens at 40. I was on the fence about changing the line weight, so I decided to keep it in so that I could get feedback on it.
-
 ### Sketch 1
+
+As mentioned, I was immediately intrigued and surprised by the increased time spent alone starting at 40 years of age, which felt rather young to me. I would have thought that increased time alone would spike at the U.S. retirement age, which is 65. This thought process led to sketch 1 below. I wanted to highlight the line for time spent alone, and I wanted to make a note of the divergence starting at 40 as well as the retirement age at 65. I also modified the title to guide viewers towards what I was interested in showing more prominently. I did keep the x- and y-axis relatively the same, with the exception of reducing the intervals of the tick marks for similar understanding with a cleaner aesthetic. The other categories were muted in gray since I thought that their context was interesting but not the focal point, and the decision to reduce the line weight of time spent alone before the 40-year mark was once again to emphasize the change that happens at 40. I was on the fence about changing the line weight, so I decided to keep it in so that I could get feedback on it.
 
 ![Sketch 1](sketch-1.png)
 
-After finishing sketch 1, I realized that I saw the time spent with varying people as distinct categories and thought that a stacked bar chart might be interesting. What is different in sketch 2 from sketch 1 is that I am no longer focused on a trend starting at age 40, but rather just an overall dominance of average time spent alone per day throughout a lifetime. With the focus on time spent alone, I felt comfortable moving forward with a stacked bar chart if time spent alone was the foundation of the bar, which is the area that is easiest to read and compare. Again, I was less interested in the other categories so I was not as concerned that they would not be as easily comparable. I also grouped some of the categories since the focus is on time spent alone. I refrained from making these completely binary categories (i.e., time spent alone vs time spent in general company) because I think having some of the categories provides important context for viewers to understand what exactly is being compared. "Time spent in general company" or "with others", in my opinion, requires a bit more processing than I would like for this graph.
+
 
 ### Sketch 2
 
+After finishing sketch 1, I realized that I saw the time spent with varying people as distinct categories and thought that a stacked bar chart might be interesting. What is different in sketch 2 from sketch 1 is that I am no longer focused on a trend starting at age 40, but rather just an overall dominance of average time spent alone per day throughout a lifetime. With the focus on time spent alone, I felt comfortable moving forward with a stacked bar chart if time spent alone was the foundation of the bar, which is the area that is easiest to read and compare. Again, I was less interested in the other categories so I was not as concerned that they would not be as easily comparable. I also grouped some of the categories since the focus is on time spent alone. I refrained from making these completely binary categories (i.e., time spent alone vs time spent in general company) because I think having some of the categories provides important context for viewers to understand what exactly is being compared. "Time spent in general company" or "with others", in my opinion, requires a bit more processing than I would like for this graph.
+
 ![Sketch 1](sketch-2.png)
 
-In one last effort to think out of the box, I thought size of shape, akin to a tree map, might be an interesting way to display the amount of time spent alone as compared to the other categories. In this case I took four ages that span the data to represent how the categories shift over time. While I like the visual comparison of the circles, I felt that this sketch was not as easy to grasp as the previous sketch.
 
 ### Sketch 3
+
+In one last effort to think out of the box, I thought size of shape, akin to a tree map, might be an interesting way to display the amount of time spent alone as compared to the other categories. In this case I took four ages that span the data to represent how the categories shift over time. While I like the visual comparison of the circles, I felt that this sketch was not as easy to grasp as the previous sketch.
 
 ![Sketch 1](sketch-3.png)
 
