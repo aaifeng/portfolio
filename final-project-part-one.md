@@ -11,7 +11,12 @@ Restated in a different way...
 
 - **One-Sentence Summary:** The arts and culture sector can be measured in data, and that data can tell you a lot about policy and economic structure of a community.
 - **What should your audience/reader understand after reading your story?:** Understanding arts vibrancy can be the starting point for framing advocacy and driving policy to increase access and funding to your local arts community.
-- **Call-to-Action:** Be informed about how you support your local community for the most effective impact on the arts.
+
+"As a reader I want to **understand arts vibrancy** so that **I can help frame advocacy and policy to increase access and funding to the arts in my community.**"
+
+- **Call-to-Action:** Be informed about how you support your local community for the most effective impact on the arts by looking for key components that comprise the top 40 communities.
+
+"I can do this by **looking for key components in the top 40 communities that can help me be informed about how to support my local arts community.**"
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
