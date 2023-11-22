@@ -6,6 +6,7 @@ Given my interest in the arts and culture sector, I'd like to present data aroun
 **Setup:** The arts and culture sector is an important part of of our economy and overall daily lives.
 
 **Conflict:** It's unclear why some communities have thriving arts and what can be done to uplift the arts in your own community.
+
 **Resolution:** Understanding the artistic vibrancy of your own community will help you know where to invest and what to advocate for.
 
 Restated in a different way...
