@@ -1,8 +1,5 @@
 | [home page](https://aaifeng.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
@@ -26,9 +23,9 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| SMU DataArts: The Top 40 Arts-Vibrant Communities of 2023     |  [https://culturaldata.org/arts-vibrancy-2023/the-top-40-list/](https://culturaldata.org/arts-vibrancy-2023/the-top-40-list/)  |  A breakdown of the top 40 arts-vibrant communities of 2023, as measured against 13 factors out of 900 participating communities           |
+|  SMU DataArts: Effect of Local Arts Agencies on Arts Vibrancy    |  [https://culturaldata.org/media/2752/laa-funding-and-arts-vibrancy-smu-dataarts-may-2023.pdf](https://culturaldata.org/media/2752/laa-funding-and-arts-vibrancy-smu-dataarts-may-2023.pdf)   |             |
+|      |  [https://culturaldata.org/arts-vibrancy-2023/methodology/](https://culturaldata.org/arts-vibrancy-2023/methodology/)   |             |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
