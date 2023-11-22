@@ -17,11 +17,10 @@ Restated in a different way...
 - **Call-to-Action:** Be informed about how you support your local community for the most effective impact on the arts by looking for key components that comprise the top 40 communities.
 
 "I can do this by **looking for key components in the top 40 communities that can help me be informed about how to support my local arts community.**"
+![Story Arc](story-arc.png)
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
+![initial-sketch](initial-sketch.png)
 
 # The data
 SMU DataArts publishes a full report and interactive map each year for the Arts Vibrancy Index of participating communities. I would be using the data for the top 40 communities, which includes the community (city and state), ranking, region, population, and cost of living index. They also provide additional data about how the ranking and arts vibrancy was calculated by summing three major categories: arts providers, arts dollars, and public support.
