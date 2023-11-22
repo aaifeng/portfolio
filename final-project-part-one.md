@@ -1,19 +1,17 @@
 | [home page](https://aaifeng.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Outline
-Given my interest in the arts and culture sector, I'd like to present data around the SMU DataArts Arts Vibrancy Index and the visible trends among the top 40 communities.
+Given my interest in the arts and culture sector, I'd like to present data around the SMU DataArts Arts Vibrancy Index and the visible trends among the top 40 communities. The arts are not typically associated with quantitative data measures, so I'd like to highlight why these measures are important and how knowing about the quantifiable aspects of the arts can help direct where communities should invest to increase the arts activities in their area.
 
-**Setup:** The arts and culture sector is an important part of of our economy and overall daily lives.
-
-**Conflict:** It's unclear why some communities have thriving arts and what can be done to uplift the arts in your own community.
-
-**Resolution:** Understanding the artistic vibrancy of your own community will help you know where to invest and what to advocate for.
+- **Setup:** The arts and culture sector is an important part of of our economy and overall daily lives.
+- **Conflict:** It's unclear why some communities have thriving arts and what can be done to uplift the arts in your own community.
+- **Resolution:** Understanding the artistic vibrancy of your own community will help you know where to invest and what to advocate for.
 
 Restated in a different way...
 
-**One-Sentence Summary:** The arts and culture sector can be measured in data, and that data can tell you a lot about policy and economic structure of a community.
-**What should your audience/reader understand after reading your story?:** Understanding arts vibrancy can be the starting point for framing advocacy and driving policy to increase access and funding to your local arts community.
-**Call-to-Action:** Be informed about how you support your local community for the most effective impact on the arts.
+- **One-Sentence Summary:** The arts and culture sector can be measured in data, and that data can tell you a lot about policy and economic structure of a community.
+- **What should your audience/reader understand after reading your story?:** Understanding arts vibrancy can be the starting point for framing advocacy and driving policy to increase access and funding to your local arts community.
+- **Call-to-Action:** Be informed about how you support your local community for the most effective impact on the arts.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
