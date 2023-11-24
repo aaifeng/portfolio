@@ -42,7 +42,7 @@ Three visualizations of government debt of countries around the world from 1995 
 A critique of a MakeoverMonday visualization, complete with sketching, testing, and a redesign of the visualization.
 
 ## Final project
-Final project description to come. 
+An exploration of how the SMU DataArts Arts Vibrancy Index and the visible trends among the top 40 communities can help bolster advocacy and strategy around local arts communities. 
 [Part I](final-project-part-one) | [Part II](final-project-part-two) | [Part III](final-project-part-three)
 
 ---
