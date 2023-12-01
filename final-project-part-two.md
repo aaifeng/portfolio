@@ -1,6 +1,6 @@
 | [home page](https://aaifeng.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
+# Wireframes & Storyboards
 
 The more I thought about my outline in Part I, the more I realized that the story I'd like to tell is slightly different. As a refresher, here is my initial story outline:
 - **Setup:** The arts and culture sector is an important part of of our economy and overall daily lives.
@@ -22,6 +22,13 @@ I've also added new sources with fuller datasets:
 The SMU DataArts Map is what I want to link to for my call to action.
 
 It was easier for me to plan the report as a sketched outline, which I have included below. Having an idea of the Shorthand layout I would like to use was helpful in visualizing and sketching the flow of the report.
+
+![report-1](report-1.png)
+![report-2](report-2.png)
+![report-3](report-3.png)
+![report-4](report-4.png)
+![report-5](report-5.png)
+![report-6](report-6.png)
 
 # User research 
 
