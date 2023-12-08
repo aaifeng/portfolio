@@ -3,13 +3,19 @@
 # The final data story
 I ended up creating a full version and a presentation version of my story with a few differences to better facilitate the 1-minute presentation.
 
-Presentation version: [https://carnegiemellon.shorthandstories.com/arts-vibrancy-presentation/index.html#group-section-Econ-7Ih6BJkK0E](https://carnegiemellon.shorthandstories.com/arts-vibrancy-presentation/index.html#group-section-Econ-7Ih6BJkK0E)
+**Presentation version:** [https://carnegiemellon.shorthandstories.com/arts-vibrancy-presentation/index.html#group-section-Econ-7Ih6BJkK0E](https://carnegiemellon.shorthandstories.com/arts-vibrancy-presentation/index.html#group-section-Econ-7Ih6BJkK0E)
 
-Full story: 
+**Full story:**
+
+The differences between the presentation version and the full version are for simplicity. For example, I preferred having a collage of images depicting different disciplines for my audience to look at rather than a block of text explaining art & culture with only one or two pictures.
 
 # Changes made since Part II
 
-I think many of the major changes are due to the capabilities of Shorthand as opposed to my hand-drawn outline. I did included a lengthy section on defining arts and culture, and I also weaved in some of the social/emotional impact of the industry to complement the economic impact. This was from feedback of interviewee #1, who would have preferred a more rounded decpition of impact rather than reducing the value of the arts & culture to just economic activity.
+I think many of the major changes are due to the expanded narrative capabilities of Shorthand as opposed to my hand-drawn outline. I did included a lengthy section on defining arts and culture, and I also weaved in some of the social/emotional impact of the industry to complement the economic impact. This was from feedback of interviewee #1, who would have preferred a more rounded decpition of impact rather than reducing the value of the arts & culture to just economic activity. I ended up having more to say about the set up than the conflict and resolution, but I thought it was fitting since I would rather emphasize the positive impact of the arts & culture regardless of the conflict. This change goes with that same interviewee's preference for a definition of arts vibrancy at the beginning of the story. I also wanted to push the community aspect of the story since I think that ties the impact together, and I appreciated knowing that this was new for two out of three interviewees who were not previously aware of the landscape of this industry.
+
+I changed the pie charts displaying survey data about how people feel about the arts in the community to a pictogram because I thought the icons of the people would be more impactful, and I did not want readers to get distracted by the other areas of the pie chart (neutral, disgaree, and strongly disagree), especially when the overwhelming majority of respnses were "agree" and "strongly agree".
+
+I changed the color scheme slightly but kept with vibrant colors aligned with my intention to begin and end the presentation on a positive note. The arts & culture are generally coded as orange, with other accent colors of purple, green, 
 
 I was rather impressed with the intuitive nature of Shorthand and the range of possibilities I was able to explore to make an engaging story.
 
