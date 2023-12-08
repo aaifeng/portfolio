@@ -1,19 +1,24 @@
 | [home page](https://aaifeng.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+I ended up creating a full version and a presentation version of my story with a few differences to better facilitate the 1-minute presentation.
 
-Text here!
+Presentation version: [https://carnegiemellon.shorthandstories.com/arts-vibrancy-presentation/index.html#group-section-Econ-7Ih6BJkK0E](https://carnegiemellon.shorthandstories.com/arts-vibrancy-presentation/index.html#group-section-Econ-7Ih6BJkK0E)
+
+Full story: 
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+I think many of the major changes are due to the capabilities of Shorthand as opposed to my hand-drawn outline. I did included a lengthy section on defining arts and culture, and I also weaved in some of the social/emotional impact of the industry to complement the economic impact. This was from feedback of interviewee #1, who would have preferred a more rounded decpition of impact rather than reducing the value of the arts & culture to just economic activity.
+
+I was rather impressed with the intuitive nature of Shorthand and the range of possibilities I was able to explore to make an engaging story.
+
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+As stated in part II, my initial primary audience were people outside of the arts & culture sector, particularly policymakers who could be searching for new ways to connect with their community. Other personas in my audience also included members of the general public who were interested in getting more involved with their community, as well as arts organizations looking for ways to expand their advocacy message.
+
+My audience in part III has shifted focus, but the three personas remain the same. This final version of the story is aimed more towards aimed more towards the average person, but still with the intent to influence public policy and potentially to be used by arts organizations in their own advocacy campaigns. Part of what influenced this shift was the call to action. Part of the call to action is to reach out to local policy and decision makers, so it made more sense to center the story around the public rather than the policymakers themselves. I wanted this particular call to action because I thought it gave the story a better focus (as opposed to just leading the readers to the SMU DataArts map and AFTA resources). As mentioned in part II, I tried my best to avoid or at the very least explain industry-jargon/concepts and to frame the impact from various angles in attempts to appeal to the different ways people interpret impact.
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
