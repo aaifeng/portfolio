@@ -31,8 +31,8 @@ My audience in part III has shifted focus, but the three personas remain the sam
 ## References
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
 
-Text here!
+**Link to references section of my story:**
 
 # Final thoughts
 
-This was such an interesting experience and culmination of what we have learned throughout the course. The report ended up feeling much larger than I thought it would and I would have liked more time to clean up the edges and touch up the written report. I also think I could have refined my intended audience further, but for the moment I am satisfied with my call to action and how the story is framed around it.
+This was such an interesting experience and culmination of what we have learned throughout the course. The report ended up feeling much larger than I thought it would and I would have liked more time to clean up the edges and touch up the written report. I also think I could have refined my intended audience further, but for the moment I am satisfied with my call to action and how the story is framed around it. I also think I could have done a better job of highlighting arts vibrancy and why this index is helpful in this context. Perhaps the report could have just been centered on the arts with the mention of arts vibrancy rather than making arts vibrancy a focus in the title.
