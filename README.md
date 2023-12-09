@@ -3,7 +3,7 @@
 # Portfolio
 
 - Web page URL: [https://aaifeng.github.io/portfolio/](https://aaifeng.github.io/portfolio/)
-- Repository: [https://github.com/aaifeng/portfolio/](https://github.com/aaifeng/portfolio/)
+- Repository: [https://github.com/aaifeng/portfolio/](https://github.com/aaifeng/portfolio/){:target="_blank"}
 
 Public portfolio for 94-870 Telling Stories with Data at Carnegie Mellon University. 
 
