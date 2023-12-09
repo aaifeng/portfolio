@@ -15,9 +15,9 @@ I think a more compelling story would go as follows:
 I think I have a lot more data and narrative for this setup and conflict, and I think the resolution/call to action is a bit clearer. As interesting as I find the SMU DataArts data, I was having trouble converting it to a visualization because I don't have access to the full dataset, of which the rankings depend on.
 
 I've also added new sources with fuller datasets:
-- The Arts and Cultural Production Satellite Account released by the Bureau of Economic Analysis (BEA): [https://www.bea.gov/data/special-topics/arts-and-culture](https://www.bea.gov/data/special-topics/arts-and-culture)
-- National Endowment for the Arts Appropriations History: [https://www.arts.gov/about/appropriations-history](https://www.arts.gov/about/appropriations-history)
-- SMU DataArts Interactive Map: [https://dataarts.smu.edu/ArtsVibrancyMap/](https://dataarts.smu.edu/ArtsVibrancyMap/)
+- The Arts and Cultural Production Satellite Account released by the Bureau of Economic Analysis (BEA): [https://www.bea.gov/data/special-topics/arts-and-culture](https://www.bea.gov/data/special-topics/arts-and-culture){:target="_blank"}
+- National Endowment for the Arts Appropriations History: [https://www.arts.gov/about/appropriations-history](https://www.arts.gov/about/appropriations-history){:target="_blank"}
+- SMU DataArts Interactive Map: [https://dataarts.smu.edu/ArtsVibrancyMap/](https://dataarts.smu.edu/ArtsVibrancyMap/){:target="_blank"}
 
 The SMU DataArts Map is what I want to link to for my call to action.
 
