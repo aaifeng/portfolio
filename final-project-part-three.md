@@ -3,7 +3,7 @@
 # The final data story
 I ended up creating a full version and a presentation version of my story with a few differences to better facilitate the 1-minute presentation.
 
-**Presentation version:** [https://carnegiemellon.shorthandstories.com/arts-vibrancy-presentation/index.html#group-section-Econ-7Ih6BJkK0E](https://carnegiemellon.shorthandstories.com/arts-vibrancy-presentation/index.html#group-section-Econ-7Ih6BJkK0E)
+**Presentation version:** [https://carnegiemellon.shorthandstories.com/arts-vibrancy-presentation/index.html#group-section-Econ-7Ih6BJkK0E](https://carnegiemellon.shorthandstories.com/arts-vibrancy-presentation/index.html#group-section-Econ-7Ih6BJkK0E){:target="_blank"}
 
 **Full story:**
 
