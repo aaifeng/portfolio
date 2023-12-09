@@ -7,11 +7,11 @@
 I chose to critique and redesign the visualization from Our World in Data about Americans' average time spent per day alone, with family, with a partner, with friends, with coworkers, and/or with children.
 
 ### MakeoverMonday Visualization: Who do we spend time with across our ifetime?
-Original visualization from Our World in Data: [https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime](https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime)
+Original visualization from Our World in Data: [https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime](https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime){:target="_blank"}
 
 <iframe src="https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us?stackMode=absolute%C2%AEion" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-Ortiz-Ospina, Esteban, Charlie Giattino, and Max Roser. “Time Use.” Our World in Data, November 29, 2023. [https://ourworldindata.org/time-use#how-are-working-hours-measured-and-what-can-we-learn-from-the-data.](https://ourworldindata.org/time-use#how-are-working-hours-measured-and-what-can-we-learn-from-the-data)
+Ortiz-Ospina, Esteban, Charlie Giattino, and Max Roser. “Time Use.” Our World in Data, November 29, 2023. [https://ourworldindata.org/time-use#how-are-working-hours-measured-and-what-can-we-learn-from-the-data.](https://ourworldindata.org/time-use#how-are-working-hours-measured-and-what-can-we-learn-from-the-data){:target="_blank"}
 
 My overall observations are that the original data visualization is effective and informative. While it is not necessarily telling a story, it does have all the elements necessary to do so and it is already relatively easy to understand without the viewer spending too much time on it. The simplicity of the line graph with just six categories significantly helps with ease of comprehension. The interactive element with the mouse-over statistics also helps with comparing the categories against each other at specific points in time. I think the graph works well enough as is. However, I did not fully read the subtitle and note until well into my visual analysis, and that information would have been helpful in my initial understanding of the visualization. I would try to reduce the wordiness of that information, as well as remove the callout lines for the category names and reduce the number of tick marks on the y- and x-axis to reduce overall clutter.
 
@@ -101,4 +101,4 @@ I like that this redesigned visualization uses Tableau's highlight feature to se
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-Ortiz-Ospina, Esteban, Charlie Giattino, and Max Roser. “Time Use.” Our World in Data, November 29, 2023. [https://ourworldindata.org/time-use#how-are-working-hours-measured-and-what-can-we-learn-from-the-data.](https://ourworldindata.org/time-use#how-are-working-hours-measured-and-what-can-we-learn-from-the-data)
+Ortiz-Ospina, Esteban, Charlie Giattino, and Max Roser. “Time Use.” Our World in Data, November 29, 2023. [https://ourworldindata.org/time-use#how-are-working-hours-measured-and-what-can-we-learn-from-the-data.](https://ourworldindata.org/time-use#how-are-working-hours-measured-and-what-can-we-learn-from-the-data){:target="_blank"}
