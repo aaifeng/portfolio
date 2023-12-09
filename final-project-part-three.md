@@ -5,7 +5,7 @@ I ended up creating a full version and a presentation version of my story with a
 
 **Presentation version:** [https://carnegiemellon.shorthandstories.com/arts-vibrancy-presentation/index.html#group-section-Econ-7Ih6BJkK0E](https://carnegiemellon.shorthandstories.com/arts-vibrancy-presentation/index.html#group-section-Econ-7Ih6BJkK0E){:target="_blank"}
 
-**Full story:**[https://carnegiemellon.shorthandstories.com/arts-vibrancy/index.html](https://carnegiemellon.shorthandstories.com/arts-vibrancy/index.html){:target="_blank"}
+**Full story:** [https://carnegiemellon.shorthandstories.com/arts-vibrancy/index.html](https://carnegiemellon.shorthandstories.com/arts-vibrancy/index.html){:target="_blank"}
 
 The differences between the presentation version and the full version are for simplicity. For example, I preferred having a collage of images depicting different disciplines for my audience to look at rather than a block of text explaining art & culture with only one or two pictures.
 
