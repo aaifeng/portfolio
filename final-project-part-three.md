@@ -9,15 +9,17 @@ I ended up creating a full version and a presentation version of my story with a
 
 The differences between the presentation version and the full version are for simplicity. For example, I preferred having a collage of images depicting different disciplines for my audience to look at rather than a block of text explaining art & culture with only one or two pictures.
 
-# Changes made since Part II
+# Changes made since Part II & Final Design Decisions
 
 I think many of the major changes are due to the expanded narrative capabilities of Shorthand as opposed to my hand-drawn outline. I did included a lengthy section on defining arts and culture, and I also weaved in some of the social/emotional impact of the industry to complement the economic impact. This was from feedback of interviewee #1, who would have preferred a more rounded decpition of impact rather than reducing the value of the arts & culture to just economic activity. I ended up having more to say about the set up than the conflict and resolution, but I thought it was fitting since I would rather emphasize the positive impact of the arts & culture regardless of the conflict. This change goes with that same interviewee's preference for a definition of arts vibrancy at the beginning of the story. I also wanted to push the community aspect of the story since I think that ties the impact together, and I appreciated knowing that this was new for two out of three interviewees who were not previously aware of the landscape of this industry.
 
 I changed the pie charts displaying survey data about how people feel about the arts in the community to a pictogram because I thought the icons of the people would be more impactful, and I did not want readers to get distracted by the other areas of the pie chart (neutral, disgaree, and strongly disagree), especially when the overwhelming majority of respnses were "agree" and "strongly agree".
 
-I changed the color scheme slightly but kept with vibrant colors aligned with my intention to begin and end the presentation on a positive note. The arts & culture are generally coded as orange, with other accent colors of purple, green, 
+The color scheme was slightly altered, but I kept with vibrant colors aligned with my intention to begin and end the presentation on a positive note. The arts & culture are generally coded as orange, with other accent colors of purple, green, and pink. I tried to use blue to indicate other industries.
 
-I was rather impressed with the intuitive nature of Shorthand and the range of possibilities I was able to explore to make an engaging story.
+One graph that I think is significantly more effective in part III is the arts industry percent change of real value added to the GDP. In part II it was depicted as a bar graph as compared to the growth rate of the overall GDP, but because the arts industry growth rate varied more, that graph did not make it clear that the arts industry is still part of the overall GDP. I eliminated the comparison to the overall GDP growth rate because even though it is an interesting comparison, I did not think it was needed for the impact that I was going for. I used the "reveal" feature of Shorthand to roughly animte the bar graph of the arts industry changing over time. The last "reveal" of the 14% growth feels much clearer and more resonant this way.
+
+I was rather impressed with the intuitive nature of Shorthand and the range of possibilities I was able to explore to make an engaging story. I thought about the physical flow of how a user would scroll through Shorthand and made sure to alternate having text left-aligned and right-aligned for balance.
 
 
 ## The audience
@@ -26,17 +28,11 @@ As stated in part II, my initial primary audience were people outside of the art
 
 My audience in part III has shifted focus, but the three personas remain the same. This final version of the story is aimed more towards aimed more towards the average person, but still with the intent to influence public policy and potentially to be used by arts organizations in their own advocacy campaigns. Part of what influenced this shift was the call to action. Part of the call to action is to reach out to local policy and decision makers, so it made more sense to center the story around the public rather than the policymakers themselves. I wanted this particular call to action because I thought it gave the story a better focus (as opposed to just leading the readers to the SMU DataArts map and AFTA resources). As mentioned in part II, I tried my best to avoid or at the very least explain industry-jargon/concepts and to frame the impact from various angles in attempts to appeal to the different ways people interpret impact.
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
-
 ## References
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
 
 Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+This was such an interesting experience and culmination of what we have learned throughout the course. The report ended up feeling much larger than I thought it would and I would have liked more time to clean up the edges and touch up the written report. I also think I could have refined my intended audience further, but for the moment I am satisfied with my call to action and how the story is framed around it.
